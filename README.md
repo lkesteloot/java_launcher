@@ -25,8 +25,8 @@ need a `.java` extension, but it does need to match the name of the class.
 
 ## Example
 
-Put this into a file called `helloworld`. The name of the file must match the
-name of the class.
+Put this into a file called `helloworld` and make the file executable. The name
+of the file must match the name of the class.
 
     #!/usr/bin/env java_launcher
     # vim:ft=java
